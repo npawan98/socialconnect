@@ -1,0 +1,23 @@
+.imageupload{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+.imageupload__progress{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+       
+}
+.imageupload__caption{
+   margin-bottom: 10px; 
+}
+.imageupload__file{
+    margin-bottom: 10px;
+}
