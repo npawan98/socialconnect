@@ -1,2 +1,5 @@
-live link
-https://socialconnect-2df6b.web.app/
+# SocialConnect 
+
+Built on React🚀
+
+> 🔗([Web link](https://socialconnect-2df6b.web.app/))
