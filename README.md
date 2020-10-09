@@ -1,4 +1,4 @@
-# SocialConnect 
+# SocialConnect 📱
 
 Built on React🚀
 
